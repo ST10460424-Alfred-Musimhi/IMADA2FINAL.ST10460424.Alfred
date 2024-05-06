@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_1246"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="36dp" />
+
+    <TextView
+        android:layout_width="204dp"
+        android:layout_height="68dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/six_caps"
+        android:lineSpacingExtra="8sp"
+        android:text="WELCOME TO MY"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="#6E3095"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="342dp"
+        android:layout_height="111dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/img_1247_removebg_preview" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="332dp"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/img_0927__1__removebg_preview__2_" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="27dp" />
+
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="282dp"
+        android:layout_height="95dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#121212"
+        android:text="Start"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

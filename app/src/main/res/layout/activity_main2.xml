@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="right"
+    android:background="@drawable/img_1246"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="48dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="146dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/img_1247_removebg_preview" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="332dp"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/img_0927__1__removebg_preview__2_" />
+
+    <LinearLayout
+        android:layout_width="389dp"
+        android:layout_height="64dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/feedButton"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|right"
+            android:backgroundTint="#070707"
+            android:text="Feed"
+            android:textAllCaps="true"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/cleanButton"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="#070707"
+            android:text="Clean"
+            android:textAllCaps="true"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/happyButton"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|center_horizontal|left"
+            android:backgroundTint="#070707"
+            android:text="happy"
+            android:textAllCaps="true"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewFeed"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:text="feed"
+        android:textAllCaps="true"
+        android:textColor="#040303"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewClean"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:text="Clean"
+        android:textAllCaps="true"
+        android:textColor="#040303"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewHappy"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:text="happy"
+        android:textAllCaps="true"
+        android:textColor="#040303"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
