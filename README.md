@@ -32,4 +32,4 @@ Usage
 4. Ensure Scooby's needs are met regularly to keep him happy and healthy.
 
 for more explanation heres the YouTube linkhttps://youtu.be/P0T4loRjptk?si=NvWHt2r5X35RiwDp 
-here is pictures
+here is pictures ![Screenshot (12)](https://github.com/VCCT-IMAD5112-2024-G2/IMADA2FINAL.ST10460424.Alfred/assets/164514936/5883e454-5582-4004-8b0d-529ed02287f9)
