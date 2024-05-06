@@ -33,3 +33,9 @@ Usage
 
 for more explanation heres the YouTube linkhttps://youtu.be/P0T4loRjptk?si=NvWHt2r5X35RiwDp 
 here is pictures ![Screenshot (12)](https://github.com/VCCT-IMAD5112-2024-G2/IMADA2FINAL.ST10460424.Alfred/assets/164514936/5883e454-5582-4004-8b0d-529ed02287f9)
+![Screenshot 2024-05-06 130720](https://github.com/VCCT-IMAD5112-2024-G2/IMADA2FINAL.ST10460424.Alfred/assets/164514936/068ea605-348d-4401-9508-51a3a62f2fc3)
+![Screenshot 2024-05-06 125656](https://github.com/VCCT-IMAD5112-2024-G2/IMADA2FINAL.ST10460424.Alfred/assets/164514936/0ea6e267-c11e-4369-868c-682ec2efe357)
+![Screenshot 2024-05-06 130759](https://github.com/VCCT-IMAD5112-2024-G2/IMADA2FINAL.ST10460424.Alfred/assets/164514936/51eadc28-0642-4aed-aa9a-1ca18a30b701)
+
+
+
